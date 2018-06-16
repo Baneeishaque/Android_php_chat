@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Jun 14 17:23:25 IST 2018
+1.base=/Volumes/Data_Drive/DK-HP-PA-2000AR/Laboratory/Android_Studio/Android_php_chat/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=index.html
+0.set=ASSET
+0.base=/Volumes/Data_Drive/DK-HP-PA-2000AR/Laboratory/Android_Studio/Android_php_chat/app/build/intermediates/assets/debug
+1.path=classes.dex
